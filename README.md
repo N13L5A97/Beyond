@@ -12,4 +12,6 @@ Onze irritatie was dat het altijd erg luidruchtig was in de werkruimtes binnen d
 
 <img src="readme_images/Lamp.png" width="375px" alt="foto van interactieve lamp">
 
-Wil je meer lezen over dit project check dan de Wiki.
+Wil je meer lezen over dit project check dan de Wiki of lees de volledige documentatie.
+Design Rationale: https://docs.google.com/document/d/16SJD2yygxx6T7s_CqhQAbs_8leA1WOwAkjkE6gcTv2c/edit?usp=sharing
+Product Biografie: https://docs.google.com/document/d/1dDT9ngGuI9axGGDCpQnz9KtyKNYpTjHrr7xkeoETwaE/edit?usp=sharing
